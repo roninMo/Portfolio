@@ -1,0 +1,11 @@
+{
+  "name": "myportfolio",
+  "version": "1.0.0",
+  "description": "This is a portfolio to link all my deployed websites to this site to show off my ui design capabilities along with back end work, which is my personal preference.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Korean Schweggers",
+  "license": "ISC"
+}
